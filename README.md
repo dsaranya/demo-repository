@@ -1,5 +1,2 @@
-#Readme.md
+#Readme
 #Saranya
-#Sandip
-#Brijesh
-
